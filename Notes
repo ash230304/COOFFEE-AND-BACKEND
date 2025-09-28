@@ -1,0 +1,5 @@
+scope the database with TRY CATCH OR PROMISES to handle the errors
+always use async and await - as the database can be in another continent
+IIFE Concept
+Require and Import 
+
